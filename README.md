@@ -146,5 +146,4 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 - **[Dataset (Airbus Ship Detection Challenge)](https://www.kaggle.com/competitions/airbus-ship-detection)**
 
 ## 🖋️ Authors
-**Vishwas H N**<br>
-**Vikas S**
+Shreyas G R
