@@ -55,7 +55,7 @@ venv\Scripts\activate      # Windows
 
 ### 3. Clone this repository
 ```bash
-git clone https://github.com/vishwashn12/Airbus_Ship_Detection.git
+git clone https://github.com/shreyasgr9087-cloud/Airbus_Ship_Detection.git
 cd Airbus_Ship_Detection
 ```
 
